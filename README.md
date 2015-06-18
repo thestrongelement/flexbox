@@ -55,6 +55,11 @@ Usually, you can use floats or let elements stack for IE 8 and 9 and still achie
 Developers have been coding clever layouts for a long time so you can resort to Javascript and polyfills if you must support aging IEs.
 
 ##helpful resources
+Extensive overview of all flex properties
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
+Great tool (at the bottom) for exploring options 
 https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties
+
+Shows various form options
+http://philipwalton.github.io/solved-by-flexbox/demos/input-add-ons/
