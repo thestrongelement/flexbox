@@ -3,7 +3,7 @@
 If you're using flexbox for the first time don't get too bogged down in all the properties, just start simply.
 
 ## demo
-See it at http://www.thestrongelement.com/flexbox.html
+See it at http://www.thestrongelement.com/flexbox/
 
 ## getting started
 
