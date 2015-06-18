@@ -37,12 +37,9 @@ If we want "**strong**" to take up 2x more space:
 ```css
 strong { flex: 2; }
 ```
-*Hint: You can use decimals, e.g. 1.5*
+*Hint: You can use decimals, e.g. 1.5. And you can animate it!*
 
 That's a good start. 
-
-Next, you can look into the other properties as you need them. Lastly, don't forget that you animate flex properties, e.g. `transition: flex 0.3s`.
-
 
 ## should you use it?
 Yes, yes, yes.
@@ -55,7 +52,7 @@ Yes.
 ###IE?
 Usually, you can use floats or let elements stack for IE 8 and 9 and still achieve good results. Float rules have no effect on flex items.
 
-Developers have been creating clever layouts for a long time so you can probably use Javascript and polyfills if you must support aging IEs.
+Developers have been coding clever layouts for a long time so you can resort to Javascript and polyfills if you must support aging IEs.
 
 ##helpful resources
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
